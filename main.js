@@ -1,6 +1,6 @@
 var ism = prompt('ismni kiriting')
-if (ism == 'Abdurahmon' || ism == 'abdurahmon' || 'ABDURAHMON'){
+if (ism == 'Abdurahmon' || ism == 'abdurahmon' || ism == 'ABDURAHMON') {
     alert('Hello Boss')
-}else{
+} else {
     alert('Hello Guest')
 }
